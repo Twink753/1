@@ -1,5 +1,7 @@
 SilentVector CS2 Cheat 🖤
 
+Password - 111
+
 Ultimate hacking toolkit for CS2 – designed for advanced users who want full control over the game environment, automation, and visual enhancements.
 
 🌌 Features
